@@ -1,5 +1,5 @@
 # mel-cepstrum-saliency
-###2D Mel-Cepstrum based Saliency Detection
+### 2D Mel-Cepstrum based Saliency Detection
 
 
 These codes are used for computing saliency maps using 2D mel-cepstrum. This is a revised version of the following publication for public distribution on web. Please cite the following paper when you use this code.
