@@ -14,5 +14,9 @@ Please use "mainSaliencyMap.m" file to run the matlab code in matlab command win
 >> mainSaliencyMap
 ```
 
+![fig:icip2013-method_poster](https://github.com/nevrez/mel-cepstrum-saliency/blob/master/images/icip2013-method.png "poster-method")  
+
+
+![fig:icip2013-results_poster](https://github.com/nevrez/mel-cepstrum-saliency/blob/master/images/icip2013-results.png "poster-results")  
 
 DISCLAIMER: The Matlab codes provided are only for evaluation of the algorithm. Neither the authors of the codes, nor affiliations of the authors can be held responsible for any damages arising out of using this code in any manner. Please use the code at your own risk.
