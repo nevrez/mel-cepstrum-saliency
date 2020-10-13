@@ -1,6 +1,7 @@
 # mel-cepstrum-saliency
 ### 2D Mel-Cepstrum based Saliency Detection
 
+![fig:icip2013-method_poster](https://github.com/nevrez/mel-cepstrum-saliency/blob/master/images/icip2013-method.png "poster-method")  
 
 These codes are used for computing saliency maps using 2D mel-cepstrum. This is a revised version of the following publication for public distribution on web. Please cite the following paper when you use this code.
 
@@ -13,9 +14,6 @@ Please use "mainSaliencyMap.m" file to run the matlab code in matlab command win
 ```
 >> mainSaliencyMap
 ```
-
-![fig:icip2013-method_poster](https://github.com/nevrez/mel-cepstrum-saliency/blob/master/images/icip2013-method.png "poster-method")  
-
 
 ![fig:icip2013-results_poster](https://github.com/nevrez/mel-cepstrum-saliency/blob/master/images/icip2013-results.png "poster-results")  
 
